@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [Getting Started](getting-started.md)
 * [Design Overview](overview/README.md)
   * [Traditional BaaS vs Sync3k](overview/comparison.md)
   * [Offline-first](overview/offline.md)
